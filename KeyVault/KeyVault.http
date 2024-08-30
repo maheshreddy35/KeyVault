@@ -1,0 +1,6 @@
+@KeyVault_HostAddress = http://localhost:5186
+
+GET {{KeyVault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
