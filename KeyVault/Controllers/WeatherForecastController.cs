@@ -8,7 +8,7 @@ namespace KeyVault.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "A", "B", "C", "D", "M", "W", "S", "A", "D", "A"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
