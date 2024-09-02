@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "apis1": {
+      "type": "apis"
+    },
+    "appConfig1": {
+      "type": "appConfig",
+      "connectionId": "AppConfig",
+      "dynamicId": null
+    }
+  }
+}
